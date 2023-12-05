@@ -1,5 +1,9 @@
 # Week-1-Challenge-Refractor
-My response for Week 1's challenge focused on optimisation
+My response for Week 1's challenge focused on optimisation. The challenge was to take a mostly built out website and add some missing functionality to maximise the user experience.
+
+Most of my changes are pointed out by the following notation type [shown in screenshot below]
+
+<img src="./04-code-refactor-lesson/challenge/starter/assets/images/Screenshot 2023-12-05 at 23.31.11.png">
 
 //The first thing I fixed was the <a> element for 'Search Engine Optimization'
 
